@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	// declaring variable without assignibg value
+	// declaring variable without assigning value
 	string name;
 	int num1, num2, result;
 	
